@@ -1,3 +1,3 @@
-const formattedDate = formatDate(new Date())
+const formattedDate = formatDate(new Date());
 
-console.log(`Today's date is ${formattedDate}`)
+console.log(`Today's date is ${formattedDate}`);
